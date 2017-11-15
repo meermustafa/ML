@@ -1,7 +1,7 @@
 # Meer Mustafa
 # Oct 11, 2017
 
-setwd("~/Dropbox (Sanjana Lab)/SLab histone/ProfilePlots")
+# set working directory
 
  # Figure 1a)
 # 
